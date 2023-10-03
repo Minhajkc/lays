@@ -16,10 +16,15 @@ body{
     padding-left: 10px;
 }
 #head1 a{
-   margin-right: 30px;
+   margin-right: 40px;
    text-decoration: none;
    color:black;
    padding-left: 10px;
+   font-size: 15px
+}
+#head1 button{
+    background: none;
+    padding: 5px;
 }
 #searchlogo img{
    width: 30px;
@@ -36,6 +41,16 @@ padding-top: 33px;
     background-size: cover;
     background-repeat: no-repeat;
 }
+#head2 button{
+    margin-top: 350px;
+    margin-left: 500px;
+    color:white;
+    background-color:red;
+    border: none;
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+}
 #head3{
     background-image: url("bg-products.jpg");
     height: 18cm;
@@ -44,8 +59,9 @@ padding-top: 33px;
 }
 #head3 h1{
     padding-left: 4%;
-    padding-top: 4%;
+    padding-top: 3px;
     color: white;
+    font-size: 80px;
 }
 #a1{
     background-color: black;
@@ -156,11 +172,10 @@ background-color: rgb(19, 19, 107);
     color:white;
     padding-top: 30px;
     padding-left: 40px;
-    font-size: 35px;
+    font-size: 100px;
 }
 iframe{
     margin-left: 100px;
-    margin-top: 100px;
 }
 #head5 h2{
     text-align: right;
